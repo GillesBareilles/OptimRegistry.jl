@@ -4,3 +4,4 @@ repo = "https://github.com/GillesBareilles/OptimRegistry.jl"
 description = "My private registry"
 
 [packages]
+57061203-8ea9-4995-b8fb-f2bb2c372b50 = { name = "PlotsOptim", path = "P/PlotsOptim" }
