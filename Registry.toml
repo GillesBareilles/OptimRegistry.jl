@@ -1,0 +1,6 @@
+name = "OptimRegistry"
+uuid = "01621ee8-d7a9-457d-8d43-bd9cf2ade94e"
+repo = "https://github.com/GillesBareilles/OptimRegistry.jl"
+description = "My private registry"
+
+[packages]
