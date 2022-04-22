@@ -1,3 +1,3 @@
 name = "PlotsOptim"
 uuid = "57061203-8ea9-4995-b8fb-f2bb2c372b50"
-repo = "git@github.com:GillesBareilles/PlotsOptim.jl.git"
+repo = "https://github.com/GillesBareilles/PlotsOptim.jl.git"
