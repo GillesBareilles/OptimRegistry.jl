@@ -7,3 +7,4 @@ description = "My private registry"
 1f36449f-5f52-4ce1-8bf6-72aeff6ffb2f = { name = "EigenDerivatives", path = "E/EigenDerivatives" }
 5655f2e6-550e-45fb-8023-520ea411539c = { name = "NonSmoothProblems", path = "N/NonSmoothProblems" }
 57061203-8ea9-4995-b8fb-f2bb2c372b50 = { name = "PlotsOptim", path = "P/PlotsOptim" }
+f37854fc-8eb2-424e-b8d4-38d006def410 = { name = "NonSmoothSolvers", path = "N/NonSmoothSolvers" }
