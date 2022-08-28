@@ -1,0 +1,7 @@
+[0]
+EigenDerivatives = "0.1.1-0.1"
+IterativeSolvers = "0.9.2-0.9"
+NonSmoothProblems = "0.1.1-0.1"
+NonSmoothSolvers = "0.1.1-0.1"
+PlotsOptim = "0.1"
+julia = "1.7.0-1"

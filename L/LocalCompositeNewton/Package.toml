@@ -1,0 +1,3 @@
+name = "LocalCompositeNewton"
+uuid = "8d4dcc58-3161-4603-87cb-6c574b0842d7"
+repo = "git@github.com:GillesBareilles/LocalCompositeNewton.jl.git"

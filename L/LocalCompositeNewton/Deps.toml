@@ -1,0 +1,12 @@
+[0]
+DataStructures = "864edb3b-99cc-5e75-8d2d-829cb0a9cfe8"
+DocStringExtensions = "ffbed154-4ef7-542d-bbb7-c09d3a79fcae"
+EigenDerivatives = "1f36449f-5f52-4ce1-8bf6-72aeff6ffb2f"
+IterativeSolvers = "42fd0dbc-a981-5370-80f2-aaf504508153"
+LaTeXStrings = "b964fa9f-0449-5b57-a5c2-d3ea65f4040f"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+NonSmoothProblems = "5655f2e6-550e-45fb-8023-520ea411539c"
+NonSmoothSolvers = "f37854fc-8eb2-424e-b8d4-38d006def410"
+PlotsOptim = "57061203-8ea9-4995-b8fb-f2bb2c372b50"
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
