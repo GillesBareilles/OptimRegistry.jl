@@ -13,3 +13,7 @@ Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
 SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 TimerOutputs = "a759f4b9-e2f1-59dc-863e-4aeb61b1ea8f"
+
+["0.1.2-0"]
+LinearOperators = "5c8ed15e-5a4c-59e4-a42b-c7e8811fb125"
+QuadProgSimplex = "85789b06-2fe2-4664-9b69-af753cb80372"
