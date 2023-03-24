@@ -1,0 +1,3 @@
+name = "GlobalCompositeNewton"
+uuid = "4725afc4-59ac-4551-9f29-ef4e002d52ed"
+repo = "git@codeberg.org:GillesBareilles/GlobalCompositeNewton.jl.git"

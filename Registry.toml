@@ -7,6 +7,7 @@ description = "My private registry"
 1f36449f-5f52-4ce1-8bf6-72aeff6ffb2f = { name = "EigenDerivatives", path = "E/EigenDerivatives" }
 23bb58a7-9af7-4ddc-91d0-c8528a741764 = { name = "ConvexHullProjection", path = "C/ConvexHullProjection" }
 410873c1-f8f8-46a6-bf19-1d1ac773cd81 = { name = "ConjugateGradient", path = "C/ConjugateGradient" }
+4725afc4-59ac-4551-9f29-ef4e002d52ed = { name = "GlobalCompositeNewton", path = "G/GlobalCompositeNewton" }
 5655f2e6-550e-45fb-8023-520ea411539c = { name = "NonSmoothProblems", path = "N/NonSmoothProblems" }
 57061203-8ea9-4995-b8fb-f2bb2c372b50 = { name = "PlotsOptim", path = "P/PlotsOptim" }
 85789b06-2fe2-4664-9b69-af753cb80372 = { name = "QuadProgSimplex", path = "Q/QuadProgSimplex" }

@@ -1,0 +1,11 @@
+[0]
+ConjugateGradient = "0.1.0"
+EigenDerivatives = "0.1.2"
+IterativeSolvers = "0.9.2"
+LocalCompositeNewton = "0.1.4"
+Meshes = "0.27.0"
+NonSmoothProblems = "0.1.5"
+NonSmoothSolvers = "0.1.2"
+PlotsOptim = "0.1.2"
+QuadProgSimplex = "0.1.1"
+QuadProgSpectraplex = "0.1.1"
