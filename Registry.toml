@@ -11,4 +11,5 @@ description = "My private registry"
 57061203-8ea9-4995-b8fb-f2bb2c372b50 = { name = "PlotsOptim", path = "P/PlotsOptim" }
 85789b06-2fe2-4664-9b69-af753cb80372 = { name = "QuadProgSimplex", path = "Q/QuadProgSimplex" }
 8d4dcc58-3161-4603-87cb-6c574b0842d7 = { name = "LocalCompositeNewton", path = "L/LocalCompositeNewton" }
+b67afb87-58e8-4720-854f-53d482c26be0 = { name = "QuadProgSpectraplex", path = "Q/QuadProgSpectraplex" }
 f37854fc-8eb2-424e-b8d4-38d006def410 = { name = "NonSmoothSolvers", path = "N/NonSmoothSolvers" }
